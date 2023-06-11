@@ -38,6 +38,30 @@
     "decimo-Commit" : "Grupo4"
 }
 
+
+=======
+COMMITS GRUPO 3 - Sebastian Ausecha - Alejandro Parra
+Grupo 3 - Commit 1  
+
+Grupo 3 - Commit 2
+
+Grupo 3 - Commit 3
+
+Grupo 3 - Commit 4
+
+Grupo 3 - Commit 5
+
+Grupo 3 - Commit 6
+
+Grupo 3 - Commit 7
+
+Grupo 3 - Commit 8
+
+Grupo 3 - Commit 9
+
+Grupo 3 - Commit 10
+>>>>>>> develop
+
 Peliculas que Johan Kerry recomienda: Grupo1
 Spider man across the spider verse: Grupo 1
 John Wick 4: Grupo 1
@@ -47,4 +71,3 @@ Joze to Tora to Sakanatachi: Grupo 1
 
 Peliculas que melissa recomienda: Grupo 1
 Mario Bross: Grupo 1
-
