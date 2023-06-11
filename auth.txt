@@ -37,3 +37,24 @@
 {
     "decimo-Commit" : "Grupo4"
 }
+
+COMMITS GRUPO 3 - Sebastian Ausecha - Alejandro Parra
+Grupo 3 - Commit 1  
+
+Grupo 3 - Commit 2
+
+Grupo 3 - Commit 3
+
+Grupo 3 - Commit 4
+
+Grupo 3 - Commit 5
+
+Grupo 3 - Commit 6
+
+Grupo 3 - Commit 7
+
+Grupo 3 - Commit 8
+
+Grupo 3 - Commit 9
+
+Grupo 3 - Commit 10
