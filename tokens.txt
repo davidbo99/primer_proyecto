@@ -42,5 +42,16 @@
     "Decimo-commit" : "Grupo4"
 }
 
+COMMITS GRUPO 3 - ANNIE OCHOA
+grupo 3 - commit 1
+grupo 3 - commit 2
+grupo 3 - commit 3
+grupo 3 - commit 4
+grupo 3 - commit 5
+grupo 3 - commit 6
+grupo 3 - commit 7
+grupo 3 - commit 8
+grupo 3 - commit 9
+grupo 3 - commit 10
 
 
