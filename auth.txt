@@ -84,3 +84,5 @@ Diamante de sangre: Grupo 1
 
 Grupo 2 primer commit 
 Grupo 2 segundo commit 
+Grupo 2 tercer commit
+Grupo 2 cuarto commit 
