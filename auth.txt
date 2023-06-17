@@ -90,3 +90,4 @@ Primer parrafo de 5
 
 Libros para leer como desarrollador
 Código Limpio: Manual de la Artesanía del Software Ágil) por Robert C. Martin
+El programador pragmático: Tu viaje hacia la maestría) por Andrew Hunt y David Thomas
