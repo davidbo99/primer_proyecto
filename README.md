@@ -13,9 +13,10 @@ distribucion es a su preferencia y podran tomar la decision de como hacerlo.
 La primera feat debera editar el archivo con nombre "auth.txt" y la segunda feat debera editar el archivo "tokens.txt". Pueden editarlo
 como deseen sin cambiar drasticamente el contenido que otros compañeros han escrito sobre estos archivos (Solo modificarlos levemente).
 
-Cada rama feat debe tener como minimo 10 commits de cambios, y finalmente deberan primero hacer un merge en dirección 'develop -> feat'
+Cada persona del equipo debera realizar 5 commits como minimo en la rama correspondiente. Finalmente deberan primero hacer un merge en dirección 'develop -> feat'
 (Con el objetivo de traer informacion de develop que provenga de otros equipos), y luego finalizar con un pull request en dirección 'feat -> develop'
-para enviar los cambios del equipo a develop. El pull request debe tener el nombre del feat desarrollado.
+para enviar los cambios del equipo a develop. El pull request debe tener el nombre del feat desarrollado. El pull request debe tener el nombre de los integrantes
+del equipo que participen en ese feat. El pull request debera ser aceptado por los compañeros del mismo grupo pero de diferente feat.
 
 Los archivos no pueden borrarse, ni se les puede cambiar el nombre. Los pull request seran rechazados si esto ocurre. Si algun pull request
 es aceptado ignorando estos parametros, tendra una nota final de reprobado en la asignatura. Los commits deben ser unicos, no copiar lo de los compañeros.
