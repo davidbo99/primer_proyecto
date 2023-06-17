@@ -42,6 +42,10 @@
     "Decimo-commit" : "Grupo4"
 }
 
+{
+    "Onceavo-commit" : "Grupo2"
+}
+
 COMMITS GRUPO 3 - ANNIE OCHOA
 grupo 3 - commit 1
 grupo 3 - commit 2
@@ -63,13 +67,13 @@ Arcane
 Invencible
 
 Grupo1 series Camila Urquijo
-Dinastia 
+Dinastia
 gregory georgia
-el dragon de fuego 
+el dragon de fuego
 elite
 la casa de papel
 
-grupo 2 primer commit 
+grupo 2 primer commit
 GRUPO 2 segundo commitAF
 grupo 2 tercer commitAF
 grupo 2 cuarta commitAF
