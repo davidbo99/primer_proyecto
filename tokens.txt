@@ -43,7 +43,8 @@
 }
 
 {
-    "Onceavo-commit" : "Grupo2"
+    "Onceavo-commit" : "Grupo2",
+    "tokens" : "GRUPO2_TOKEN_1283Y12894TGQSD"
 }
 
 COMMITS GRUPO 3 - ANNIE OCHOA
