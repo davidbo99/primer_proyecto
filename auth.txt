@@ -82,11 +82,10 @@ Rapido y furioso: Grupo 1
 La sirenita: Grupo 1
 Diamante de sangre: Grupo 1
 
-<<<<<<< HEAD
 grupo4 cohorte 15
 
 commit1.
-=======
+
 Grupo 2 primer commit 
 Grupo 2 segundo commit 
 Grupo 2 tercer commit
@@ -116,4 +115,3 @@ Saludos terrestres inmundos
 Estoy aburrido con esta vaina
 Ya optimista
 Gloria a Dios
->>>>>>> ec033b7fcd4430fe6c3db5cac53c9fafbf7be962
