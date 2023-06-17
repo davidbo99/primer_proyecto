@@ -89,3 +89,33 @@ commit2 creo
 commit3 que 
 commit4 ahora
 commit5 si 
+
+Grupo 2 primer commit 
+Grupo 2 segundo commit 
+Grupo 2 tercer commit
+Grupo 2 cuarto commit 
+Grupo 2 quinto commit 
+Grupo 2 sexto commit 
+
+primera linea davis grupo 2
+segunda linea davis grupo 2
+tercera linea davis grupo 2
+cuarta linea davis grupo 2
+quinta linea davis grupo 2
+sexta linea davis grupo 2
+Grupo 1 BRAYAN ZUÑIGA
+SHALLOM
+EDUARDO
+JAVIER 
+Primer parrafo de 5 
+
+Libros para leer como desarrollador
+Código Limpio: Manual de la Artesanía del Software Ágil) por Robert C. Martin
+El programador pragmático: Tu viaje hacia la maestría) por Andrew Hunt y David Thomas
+Código Completo: Un manual práctico de construcción de software) por Steve McConnell
+El mes mítico: Ensayos sobre ingeniería de software) por Frederick P. Brooks Jr
+Hola mundo ingrato
+Saludos terrestres inmundos
+Estoy aburrido con esta vaina
+Ya optimista
+Gloria a Dios
