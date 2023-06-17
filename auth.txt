@@ -94,3 +94,4 @@ El programador pragmático: Tu viaje hacia la maestría) por Andrew Hunt y David
 Código Completo: Un manual práctico de construcción de software) por Steve McConnell
 El mes mítico: Ensayos sobre ingeniería de software) por Frederick P. Brooks Jr
 Hola mundo ingrato
+Saludos terrestres inmundos
