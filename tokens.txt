@@ -90,5 +90,27 @@ grupo 2 quinta commitAF
 }
 {
     "segundo-commit" : "Grupo4"
-    
+    Algunos generos musicales 
+    trap
+    electronica
+    rap
+    house
+    rock
+    salsa
+    ballenato
+    corridos
+    reggaeton
+    ranchetas
+
+}
+{
+    "tercer-commit" : "grupo4" 
+
+}
+{
+    "cuarto-commit" : "grupo4"
+
+}
+{
+    "quinto-commit" : "grupo4"
 }
