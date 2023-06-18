@@ -47,7 +47,23 @@ gracias Jhoan tovar por ayudarme y guiarme.
 
 
 
-COMMITS GRUPO 3 - Sebastian Ausecha - Alejandro Parra
+COMMITS GRUPO 3 - Julián ,"Primer comment"
+line 0
+line 1
+line 2
+line 3
+
+commits grupo 3 -Mateo , primer commit feat1 grupo 3
+
+line n
+line n+++
+n++++??¡FS!!
+
+commit grupo 3-Julián "Primer commit modificado " 17-06-23
+commit grupo 3-Julián "Primer commit modificado2 " 17-06-23
+commit grupo 3-Julián "Primer commit modificado2 " 17-06-23
+commit grupo 3-Julián "Primer commit modificado2 " 17-06-23
+
 Grupo 3 - Commit 1  
 
 Grupo 3 - Commit 2
@@ -119,3 +135,26 @@ Saludos terrestres inmundos
 Estoy aburrido con esta vaina
 Ya optimista
 Gloria a Dios
+
+
+hola commit "primer commit"
+
+
+
+
+
+
+
+es mi primer commit mateo grupo 3 
+mateo1 
+mateo2
+mateo4
+mateo5
+mateo6
+
+julian 1 
+julian 2 
+julian 3 
+julian 4
+julian 5 
+julian 5++
