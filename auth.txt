@@ -45,13 +45,25 @@ gracias Jhoan tovar por ayudarme y guiarme.
     "decimo-Commit" : "Grupo4"
 }
 
-grupo 3 cohorte 15-mateo 
-grupo 3 segundo commit 
-grupo 3 tercer 
-grupo 3 cuarto commit 
-grupo 3 quinto commit 
 
-COMMITS GRUPO 3 - Sebastian Ausecha - Alejandro Parra
+
+COMMITS GRUPO 3 - Julián ,"Primer comment"
+line 0
+line 1
+line 2
+line 3
+
+commits grupo 3 -Mateo , primer commit feat1 grupo 3
+
+line n
+line n+++
+n++++??¡FS!!
+
+commit grupo 3-Julián "Primer commit modificado " 17-06-23
+commit grupo 3-Julián "Primer commit modificado2 " 17-06-23
+commit grupo 3-Julián "Primer commit modificado2 " 17-06-23
+commit grupo 3-Julián "Primer commit modificado2 " 17-06-23
+
 Grupo 3 - Commit 1  
 
 Grupo 3 - Commit 2
@@ -123,3 +135,6 @@ Saludos terrestres inmundos
 Estoy aburrido con esta vaina
 Ya optimista
 Gloria a Dios
+
+
+hola commit "primer commit"
