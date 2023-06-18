@@ -159,3 +159,9 @@ julian 4
 julian 5 
 julian 5++
 solucion de conflictos 
+
+Segundo intento grupo 4 cohorte 15
+se agrega segunda linea "commit2"
+tercer linea "commit3"
+cuarta linea de codigo "commit4"
+quinta linea modificada "commit5"
