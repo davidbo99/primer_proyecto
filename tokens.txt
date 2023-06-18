@@ -81,4 +81,14 @@ grupo 2 quinta commitAF
 
 {
     "primer-commit" : "Grupo4"
+    ganadores de los ultimos 5 mundiales 
+    2022-Argentina
+    2018-Francia
+    2014-Alemania
+    2010-España
+    2006-Italia 
+}
+{
+    "segundo-commit" : "Grupo4"
+    
 }
