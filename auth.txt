@@ -158,3 +158,4 @@ julian 3
 julian 4
 julian 5 
 julian 5++
+solucion de conflictos 
