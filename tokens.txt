@@ -3,7 +3,8 @@
 }
 
 {
-  token: JHASDjasghd7123197KASD2137891
+  token: JHASDjasghd7123197KASD2137891,
+  jwt: asdjfhashdga
 }
 
 {
