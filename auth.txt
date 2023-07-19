@@ -6,3 +6,4 @@ Base de datos terminada
 Crear primer repositorio
 Zona de preparación
 Historial de cambios
+Repositorio local
