@@ -7,3 +7,4 @@ Crear primer repositorio
 Zona de preparación
 Historial de cambios
 Repositorio local
+Último commit
