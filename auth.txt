@@ -203,3 +203,8 @@ grupo5
 "Agregando información de autenticación al archivo auth.txt
 Username: usuario123
 Password: 12345password"
+
+grupo5
+Actualizando la información de autenticación en auth.txt
+Username: mi_usuario
+Password: mi_contraseña
