@@ -208,3 +208,8 @@ grupo5
 Actualizando la información de autenticación en auth.txt
 Username: mi_usuario
 Password: mi_contraseña
+
+grupo5
+Corrigiendo error de ortografía en auth.txt
+Username: my_user
+Password: my_password123
