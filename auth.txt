@@ -167,6 +167,16 @@ cuarta linea de codigo "commit4"
 quinta linea modificada "commit5"
 
 
+Feat1_Grupo2C16 - Primer modificacion al documento auth.txt
+Feat1_Grupo2C16 - Segunda modificacion al documento auth.txt
+Feat1_Grupo2C16 - Tercera modificacion al documento auth.txt
+Feat1_Grupo2C16 - Cuarta modificacion al documento auth.txt
+Feat1_Grupo2C16 - Quinta modificacion al documento auth.txt
+Feat1_Grupo2C16 - Sexta modificacion al documento auth.txt
+Feat1_Grupo2C16 - Septima modificacion al documento auth.txt
+
+
+
 ana maria 1
 Cambio feat1_ grupo3_c16 Adriana Giraldo
 Cambio 2 feat1_grupo3_c16 Adriana Giraldo. 
@@ -180,3 +190,4 @@ cambio ana maria 2
 cambio ana maria 3
 Cambio ana maria 4
 Cambio ana maria 5
+
