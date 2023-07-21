@@ -160,9 +160,17 @@ y mi primer proyecto
 Grupo 3 cohorte 15
 Hasta pronto
 
+
+Primer Commit Edward Atehortua
+Segundo Commit Edward Atehortua
+Tercero Commit Edward Atehortua
+Cuarto Commit Edward Atehortua
+Quinto Commit Edward Atehortua
+
 Primer commit jonatan g 
 Segundo commit jonatan g 
 tercer commit jonatan g 
 cuarto commit jonatan g 
 quinto commit jonatan g 
 final c
+
