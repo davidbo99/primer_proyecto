@@ -8,6 +8,7 @@
     Clases de programacion
     Java 1  lin
     Introduccion a la programacionIntroduccio
+    Ingles tecnico
 }
 
 {
