@@ -159,3 +159,9 @@ Creando mi primer commit
 y mi primer proyecto
 Grupo 3 cohorte 15
 Hasta pronto
+
+Primer Commit Edward Atehortua
+Segundo Commit Edward Atehortua
+Tercero Commit Edward Atehortua
+Cuarto Commit Edward Atehortua
+Quinto Commit Edward Atehortua
