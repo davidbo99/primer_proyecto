@@ -160,5 +160,7 @@ y mi primer proyecto
 Grupo 3 cohorte 15
 Hasta pronto
 
-Creando commit grupo3_c16
+Creando commit grupo3_c16 hecho por ruben
 commit dos hecho por ruben
+dcghsjfdbjskflsksla
+commit tres hecho por ruben
