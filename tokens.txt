@@ -4,9 +4,10 @@
 
 {
     "Primer-commit" : "Grupo4"
+    Grupo 1 ( Pablo Mejia )
     Clases de programacion
     Java 1  lin
-    Introduccion a la programacion
+    Introduccion a la programacionIntroduccio
 }
 
 {
