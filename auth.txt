@@ -213,3 +213,8 @@ grupo5
 Corrigiendo error de ortografía en auth.txt
 Username: my_user
 Password: my_password123
+
+grupo5
+Mejorando el formato del archivo auth.txt
+Username: user123
+Password: secure_password1234
