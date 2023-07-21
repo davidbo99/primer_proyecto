@@ -198,3 +198,8 @@ Cambio ana maria 5
 grupo5
 Username: Terry
 Password: 1234
+
+grupo5
+"Agregando información de autenticación al archivo auth.txt
+Username: usuario123
+Password: 12345password"
