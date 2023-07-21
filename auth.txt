@@ -170,7 +170,7 @@ quinta linea modificada "commit5"
 ana maria 1
 Cambio feat1_ grupo3_c16 Adriana Giraldo
 Cambio 2 feat1_grupo3_c16 Adriana Giraldo. 
-Cambio 3 feat1_grupo3_c16 Adriana Giraldo
+Cambio 3 feat1_grupo3_c16 Adriana Giraldo.
 Cambio 4 feat1_grupo3_c16 Adriana Giraldo
 Cambio 5 feat1_grupo3_c16 Adriana Giraldo
 
