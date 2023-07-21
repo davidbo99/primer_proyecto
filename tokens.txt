@@ -159,12 +159,3 @@ Creando mi primer commit
 y mi primer proyecto
 Grupo 3 cohorte 15
 Hasta pronto
-
-
-
-Primer commit Jonatan G.
-Segundo commit Jonatan G.
-Tercer commit Jonatan G.
-Cuarto commit Jonatan G.
-Quinto commit Jonatan G.
-Adicional commit p
