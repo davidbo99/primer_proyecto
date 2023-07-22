@@ -6,7 +6,6 @@
   token: JHASDjasghd7123197KASD2137891,
   jwt: asdjfhashdga
 }
-
 {
     "Primer-commit" : "Grupo4"
     Grupo 1 ( Pablo Mejia )
@@ -16,7 +15,6 @@
     Ingles tecnico
     Resolver conflictos
 }
-
 {
     "Segundo-commit" : "Grupo4"
 }
