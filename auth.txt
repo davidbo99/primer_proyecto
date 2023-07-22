@@ -1,0 +1,10 @@
+Linea de código 1
+Se agrega un ciclo a la DB
+Se elimina datos redundantes
+Se crea un nuevo algoritmo
+Base de datos terminada
+Crear primer repositorio
+Zona de preparación
+Historial de cambios
+Repositorio local
+Último commit
