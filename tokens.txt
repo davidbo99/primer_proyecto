@@ -3,6 +3,11 @@
 }
 
 {
+  token: JHASDjasghd7123197KASD2137891,
+  jwt: asdjfhashdga
+}
+
+{
     "Primer-commit" : "Grupo4"
     Grupo 1 ( Pablo Mejia )
     Clases de programacion
@@ -72,18 +77,69 @@ Arcane
 Invencible
 
 Grupo1 series Camila Urquijo
-Dinastia 
+Dinastia
 gregory georgia
-el dragon de fuego 
+el dragon de fuego
 elite
 la casa de papel
 
-grupo 2 primer commit 
+grupo 2 primer commit
 GRUPO 2 segundo commitAF
 grupo 2 tercer commitAF
 grupo 2 cuarta commitAF
 grupo 2 quinta commitAF
 
+{
+    "primer-commit" : "Grupo4"
+    ganadores de los ultimos 5 mundiales
+    2022-Argentina
+    2018-Francia
+    2014-Alemania
+    2010-España
+    2006-Italia
+
+}
+{
+    "segundo-commit" : "Grupo4"
+    Algunos generos musicales
+    trap
+    electronica
+    rap
+    house
+    rock
+    salsa
+    ballenato
+    corridos
+    reggaeton
+    ranchetas
+
+}
+{
+    "tercer-commit" : "grupo4"
+    deportes
+    baloncesto
+    boxeo
+    ciclismo
+    esgrima
+    futbol
+    tenis
+
+}
+{
+    "cuarto-commit" : "grupo4"
+    idiomas mas hablados en el mundo
+    ingles
+    mandarin
+    español
+    arabe
+    frances
+    ruso
+    portugues
+
+}
+{
+    "quinto-commit" : "grupo4"
+}
 Grupo 3 primer linea con commit
 Grupo 3 segunda linea con commit
 Grupo 3 tercera linea con commit
@@ -96,8 +152,30 @@ Tambien me gusta ir al gimnasio
 Voy a contarles un cuento
 Termine de contarlo
 
+
+grupo 2 tokent de autenticacion
+grupo 2 tokent de autenticacion 2
+grupo 2 tokent de autenticacion 3
+grupo 2 tokent de autenticacion 4
+grupo 2 tokent de autenticacion 5
+
 Grupo 3 Liseth Herazo
 Creando mi primer commit
 y mi primer proyecto
 Grupo 3 cohorte 15
 Hasta pronto
+
+
+Primer Commit Edward Atehortua
+Segundo Commit Edward Atehortua
+Tercero Commit Edward Atehortua
+Cuarto Commit Edward Atehortua
+Quinto Commit Edward Atehortua
+
+Primer commit jonatan g 
+Segundo commit jonatan g 
+tercer commit jonatan g 
+cuarto commit jonatan g 
+quinto commit jonatan g 
+final c
+
