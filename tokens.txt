@@ -47,6 +47,12 @@
     "Decimo-commit" : "Grupo4"
 }
 
+{
+  nombre: fernando,
+  grupo: 3
+  commit: 1
+}
+
 Commit 1
 commit 2
 commit 3
