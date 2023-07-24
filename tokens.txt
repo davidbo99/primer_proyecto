@@ -47,6 +47,16 @@
     "Decimo-commit" : "Grupo4"
 }
 
+{
+  nombre: fernando,
+  grupo: 3,
+  numeroCommit:1,
+  numeroCommit: 2,
+  numeroCommit: 3,
+  numeroCommit: 4,
+  numeroCommit: 5, 
+}
+
 Commit 1
 commit 2
 commit 3
@@ -159,3 +169,15 @@ Creando mi primer commit
 y mi primer proyecto
 Grupo 3 cohorte 15
 Hasta pronto
+
+Creando commit grupo3_c16 hecho por ruben
+commit dos hecho por ruben
+dcghsjfdbjskflsksla
+commit tres hecho por ruben
+commit cuatro por ruben
+commit cinco hecho por ruben
+commit sexto hecho por ruben
+commit septimo hecho por ruben
+commit octavo hecho por ruben
+commit noveno hecho por ruben
+commit decimo hecho por ruben
