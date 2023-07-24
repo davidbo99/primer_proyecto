@@ -49,8 +49,9 @@
 
 {
   nombre: fernando,
-  grupo: 3
-  commit: 1
+  grupo: 3,
+  numeroCommit:1,
+  numeroCommit: 2,
 }
 
 Commit 1
